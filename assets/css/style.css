@@ -1,0 +1,119 @@
+body{
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+h1{
+	background: #000000;
+	color: #ffff;
+	position: relative;
+	top: -40px;
+	font-size: 60px;
+	text-align: center;
+	font-weight: 500;
+}
+header{
+	background-image: url(../img/bg-header.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 727px;
+}
+#first{
+	background:#000000;
+	color: white;
+	position: relative;
+	padding: -50px 0px;
+	height: 380px;
+}
+#primero{
+	opacity: 1;
+	font-weight: 300;
+	position: relative;
+	display: inline-block;
+	line-height: 25px;
+	letter-spacing: 1.5px;
+	font-size: 14px;
+	height: 300px;
+	z-index: 1;
+	text-align: left;
+	left: 200px;
+	top: 30px;
+}
+#iguana1{
+	position: relative;
+	display: inline-block;
+	width: 480px;
+	height: 280px;
+	z-index: 1;
+	top: 50px;
+	left: 300px;
+}
+#second{
+	background: #1e1a13;
+	height: 400px;
+	margin: 0px;
+	position: relative;
+	top: -35px;
+}
+h2{
+	color: #ffff;
+	font-weight: 500; 
+	font-size: 40px;
+	text-align: center;
+	position: relative;
+	top: 40px;
+	padding-top: 50px;
+}
+i{
+	color: white;
+}
+p{
+	font-size: 25px;
+	color: white;
+	letter-spacing: 0.5px;
+	font-weight: 400;
+	opacity: 0.5;
+}
+.fotos{
+	margin-right: 250px;
+	position: relative;
+	left: 280px;
+	top: 80px;
+	text-align: center;
+	display: inline-block;
+}
+#third{
+	background: #000000;
+	height: 400px;
+	position: relative;
+	top: -35px;
+}
+.iguana{
+	display: inline;
+	position: relative;
+	left: 170px;
+	top: 90px;
+	margin-left: -10px;
+}
+.iwana{
+	width: 380px;
+	height: 220px;
+}
+footer{
+	background: #1e1a13;
+	height: 120px;
+	top: -60px;
+	position: relative;
+}
+footer > p{
+	position: relative;
+	text-align: center;
+	top: 45px;
+
+}
+.uno{
+	/*Correcion :D */
+	margin: 0 auto;
+	width: 100%;
+}
